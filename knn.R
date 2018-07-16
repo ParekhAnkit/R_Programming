@@ -1,12 +1,7 @@
 #################################################
-#  Company    : Stevens
-#  Course     : CS 513-B
-#  Project    : HW#4
 #  Purpose    : KNN
 #  First Name : ANKIT
 #  Last Name	: PAREKH
-#  Id			    : 10418787
-#  Date       : 03/20/2017
 #################################################
 
 ## remove all objectes
