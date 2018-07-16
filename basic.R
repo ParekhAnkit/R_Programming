@@ -1,11 +1,7 @@
 #################################################
-#  Course     : CS 513-B
-#  Project    : HW_2
 #  Purpose    : Intro to R
 #  First Name : Ankit
 #  Last Name	: Parekh
-#  Id			    : 10418787
-#  Date       : 2/21/2017
 #################################################
 
   ##Q 2.1 Create the following x and y vectors:
