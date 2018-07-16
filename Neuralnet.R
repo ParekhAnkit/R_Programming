@@ -1,12 +1,7 @@
 #################################################
-#  Company    : Stevens
-#  Course     : CS 513-B
-#  Project    : HW#9
 #  Purpose    : Neuralnet and SOM
 #  First Name : ANKIT
 #  Last Name	: PAREKH
-#  Id			    : 10418787
-#  Date       : 05/03/2017
 #################################################
 
 ## Step 0 clean up!!!
