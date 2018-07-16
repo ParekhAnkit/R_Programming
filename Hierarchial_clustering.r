@@ -1,12 +1,7 @@
 #################################################
-#  Company    : Stevens
-#  Course     : CS 513-B
-#  Project    : HW#8.1
 #  Purpose    : HIerarchial Clustering
 #  First Name : ANKIT
 #  Last Name  : PAREKH
-#  Id         : 10418787
-#  Date       : 04/25/2017
 #################################################
 
 
