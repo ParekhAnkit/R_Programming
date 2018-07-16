@@ -1,8 +1,12 @@
 #################################################
+#  Company    : Stevens
 #  Course     : CS 513-B
-#  Project    : Explore and Clean
+#  Project    : HW#3
+#  Purpose    : Explore and Clean
 #  First Name : ANKIT
 #  Last Name	: PAREKH
+#  Id			    : 10418787
+#  Date       : 03/20/2017
 #################################################
 
 
